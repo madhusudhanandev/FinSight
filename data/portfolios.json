@@ -1,0 +1,55 @@
+{
+  "is_demo": true,
+  "disclaimer": "This is a synthetic demo portfolio created for the FinSight AI hackathon prototype. It does not represent a real brokerage account or real holdings.",
+  "portfolios": {
+    "default": {
+      "portfolio_id": "demo-portfolio-001",
+      "currency": "INR",
+      "total_value": 500000,
+      "holdings": [
+        {
+          "symbol": "TCS",
+          "sector": "IT Services",
+          "value": 75000,
+          "volatility": 0.18
+        },
+        {
+          "symbol": "INFY",
+          "sector": "IT Services",
+          "value": 50000,
+          "volatility": 0.20
+        },
+        {
+          "symbol": "RELIANCE",
+          "sector": "Energy & Conglomerate",
+          "value": 50000,
+          "volatility": 0.30
+        },
+        {
+          "symbol": "HDFCBANK",
+          "sector": "Banking & Financial Services",
+          "value": 100000,
+          "volatility": 0.16
+        },
+        {
+          "symbol": "ITC",
+          "sector": "FMCG",
+          "value": 75000,
+          "volatility": 0.12
+        },
+        {
+          "symbol": "SUNPHARMA",
+          "sector": "Pharmaceuticals",
+          "value": 50000,
+          "volatility": 0.19
+        },
+        {
+          "symbol": "CASH",
+          "sector": "Cash & Equivalents",
+          "value": 100000,
+          "volatility": 0.0
+        }
+      ]
+    }
+  }
+}

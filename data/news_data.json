@@ -1,0 +1,73 @@
+{
+  "data_type": "simulated_sample_news",
+  "disclaimer": "These are SAMPLE / SIMULATED headlines for demonstration purposes only. They are not real, current, or live news and must never be presented as such to an end user.",
+  "generated_at": "2026-09-01T00:00:00+05:30",
+  "symbols": {
+    "TCS": [
+      {
+        "headline": "TCS wins large multi-year digital transformation deal from European bank",
+        "polarity": "positive"
+      },
+      {
+        "headline": "Analysts raise TCS margin outlook after strong deal pipeline commentary",
+        "polarity": "positive"
+      },
+      {
+        "headline": "TCS expands AI delivery centre, adds new hiring in Tier-2 cities",
+        "polarity": "positive"
+      },
+      {
+        "headline": "TCS attrition ticks up slightly this quarter, company says within expected range",
+        "polarity": "neutral"
+      },
+      {
+        "headline": "TCS shares trade in a narrow range ahead of sector-wide earnings season",
+        "polarity": "neutral"
+      }
+    ],
+    "RELIANCE": [
+      {
+        "headline": "Reliance Retail reports slower same-store growth amid weak urban demand",
+        "polarity": "negative"
+      },
+      {
+        "headline": "Reliance Jio adds new subscribers but average revenue per user dips",
+        "polarity": "negative"
+      },
+      {
+        "headline": "Reliance announces new green energy investment plan for upcoming fiscal year",
+        "polarity": "positive"
+      },
+      {
+        "headline": "Reliance petrochemical margins under pressure from rising input costs",
+        "polarity": "negative"
+      },
+      {
+        "headline": "Reliance holds annual investor update, reiterates long-term energy transition targets",
+        "polarity": "neutral"
+      }
+    ],
+    "INFY": [
+      {
+        "headline": "Infosys flags soft discretionary tech spending from key US clients",
+        "polarity": "negative"
+      },
+      {
+        "headline": "Infosys trims full-year revenue growth guidance, cites macro headwinds",
+        "polarity": "negative"
+      },
+      {
+        "headline": "Infosys announces fresh round of project delays from a large financial services client",
+        "polarity": "negative"
+      },
+      {
+        "headline": "Infosys reiterates its buyback program is on track for completion",
+        "polarity": "neutral"
+      },
+      {
+        "headline": "Infosys leadership says cost optimization measures remain on schedule",
+        "polarity": "neutral"
+      }
+    ]
+  }
+}

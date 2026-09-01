@@ -1,0 +1,14 @@
+{
+  "conservative": {
+    "risk_tolerance": "low",
+    "max_sector_exposure": 20,
+    "investment_horizon": "long-term",
+    "max_volatility": 0.15
+  },
+  "aggressive": {
+    "risk_tolerance": "high",
+    "max_sector_exposure": 45,
+    "investment_horizon": "short-term",
+    "max_volatility": 0.35
+  }
+}

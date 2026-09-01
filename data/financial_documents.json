@@ -1,0 +1,114 @@
+{
+  "is_demo": true,
+  "disclaimer": "All documents in this corpus are synthetic, demo-only data created for the FinSight AI hackathon prototype. They do not represent real filings, real financial results, or investment advice.",
+  "documents": [
+    {
+      "id": "tcs-q4-2024-001",
+      "symbol": "TCS",
+      "content": "TCS reported quarterly revenue growth of 12% year-on-year, driven by strong demand in digital transformation services. Net profit for the quarter increased 9% compared to the previous year, supported by margin expansion in the BFSI vertical. [DEMO DOCUMENT — SYNTHETIC DATA FOR PORTFOLIO DEMO PURPOSES]",
+      "source": "TCS Quarterly Earnings Report - DEMO",
+      "page": 2,
+      "date": "2024-04-15",
+      "is_demo": true
+    },
+    {
+      "id": "tcs-annual-2024-002",
+      "symbol": "TCS",
+      "content": "For FY2024, TCS posted an operating margin of 24.5%, among the strongest in the IT services sector, with a record order book of $34 billion reflecting robust client demand. [DEMO DOCUMENT — SYNTHETIC DATA FOR PORTFOLIO DEMO PURPOSES]",
+      "source": "TCS Annual Report FY2024 - DEMO",
+      "page": 8,
+      "date": "2024-05-10",
+      "is_demo": true
+    },
+    {
+      "id": "tcs-q4-2024-003",
+      "symbol": "TCS",
+      "content": "Deal wins for the quarter totalled $9.2 billion in total contract value, with management citing continued growth momentum in cloud and AI-led engagements. Attrition improved to 12.3% from the prior quarter. [DEMO DOCUMENT — SYNTHETIC DATA FOR PORTFOLIO DEMO PURPOSES]",
+      "source": "TCS Quarterly Earnings Report - DEMO",
+      "page": 5,
+      "date": "2024-04-15",
+      "is_demo": true
+    },
+    {
+      "id": "tcs-risk-2024-004",
+      "symbol": "TCS",
+      "content": "Key risk factors disclosed include currency volatility exposure from a US-dollar-denominated revenue base and client concentration risk, with the top five clients contributing a mid-teens percentage of total revenue. Outstanding debt remained minimal relative to peers. [DEMO DOCUMENT — SYNTHETIC DATA FOR PORTFOLIO DEMO PURPOSES]",
+      "source": "TCS Annual Report FY2024 - DEMO",
+      "page": 22,
+      "date": "2024-05-10",
+      "is_demo": true
+    },
+    {
+      "id": "reliance-q4-2024-001",
+      "symbol": "RELIANCE",
+      "content": "Reliance Industries reported strong revenue growth in its digital services segment, with Jio subscriber additions supporting continued growth momentum. Retail segment revenue increased on festive-season demand. [DEMO DOCUMENT — SYNTHETIC DATA FOR PORTFOLIO DEMO PURPOSES]",
+      "source": "Reliance Industries Quarterly Report - DEMO",
+      "page": 3,
+      "date": "2024-04-20",
+      "is_demo": true
+    },
+    {
+      "id": "reliance-annual-2024-002",
+      "symbol": "RELIANCE",
+      "content": "The Oil-to-Chemicals (O2C) segment posted improved margin performance for FY2024, and management highlighted a reduction in net debt following strong operating cash flow generation. [DEMO DOCUMENT — SYNTHETIC DATA FOR PORTFOLIO DEMO PURPOSES]",
+      "source": "Reliance Industries Annual Report FY2024 - DEMO",
+      "page": 10,
+      "date": "2024-05-12",
+      "is_demo": true
+    },
+    {
+      "id": "reliance-q4-2024-003",
+      "symbol": "RELIANCE",
+      "content": "Management outlined an expanded capital expenditure outlook for renewable energy projects, citing this as a key growth driver for the coming fiscal year. Order book for new energy contracts continues to build. [DEMO DOCUMENT — SYNTHETIC DATA FOR PORTFOLIO DEMO PURPOSES]",
+      "source": "Reliance Industries Quarterly Report - DEMO",
+      "page": 6,
+      "date": "2024-04-20",
+      "is_demo": true
+    },
+    {
+      "id": "reliance-risk-2024-004",
+      "symbol": "RELIANCE",
+      "content": "Disclosed risk factors include exposure to crude oil price volatility, which can pressure O2C segment margin, and regulatory risk in the telecom and retail businesses. [DEMO DOCUMENT — SYNTHETIC DATA FOR PORTFOLIO DEMO PURPOSES]",
+      "source": "Reliance Industries Annual Report FY2024 - DEMO",
+      "page": 25,
+      "date": "2024-05-12",
+      "is_demo": true
+    },
+    {
+      "id": "infy-q4-2024-001",
+      "symbol": "INFY",
+      "content": "Infosys reported revenue growth guidance of 3-5% for the fiscal year, supported by large-deal total contract value of $2.3 billion signed during the quarter. [DEMO DOCUMENT — SYNTHETIC DATA FOR PORTFOLIO DEMO PURPOSES]",
+      "source": "Infosys Quarterly Earnings Report - DEMO",
+      "page": 2,
+      "date": "2024-04-18",
+      "is_demo": true
+    },
+    {
+      "id": "infy-annual-2024-002",
+      "symbol": "INFY",
+      "content": "Operating margin for FY2024 improved to 21.2%, with digital revenue now comprising a majority of the overall revenue mix, reflecting strong growth in cloud and AI services. [DEMO DOCUMENT — SYNTHETIC DATA FOR PORTFOLIO DEMO PURPOSES]",
+      "source": "Infosys Annual Report FY2024 - DEMO",
+      "page": 7,
+      "date": "2024-05-08",
+      "is_demo": true
+    },
+    {
+      "id": "infy-q4-2024-003",
+      "symbol": "INFY",
+      "content": "Attrition declined to 12.9% on a trailing twelve-month basis, and headcount growth resumed after two quarters of net reduction, supporting delivery capacity for the current order book. [DEMO DOCUMENT — SYNTHETIC DATA FOR PORTFOLIO DEMO PURPOSES]",
+      "source": "Infosys Quarterly Earnings Report - DEMO",
+      "page": 4,
+      "date": "2024-04-18",
+      "is_demo": true
+    },
+    {
+      "id": "infy-risk-2024-004",
+      "symbol": "INFY",
+      "content": "Key risks disclosed include client concentration risk in the BFSI vertical and foreign-exchange volatility affecting revenue reported in Indian rupees, partly offset by hedging and low outstanding debt. [DEMO DOCUMENT — SYNTHETIC DATA FOR PORTFOLIO DEMO PURPOSES]",
+      "source": "Infosys Annual Report FY2024 - DEMO",
+      "page": 20,
+      "date": "2024-05-08",
+      "is_demo": true
+    }
+  ]
+}
